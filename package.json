@@ -1,0 +1,23 @@
+{
+  "name": "react-layui",
+  "version": "1.0.0",
+  "description": "这是一个基于REACT的UI框架，引用了layui的样式（逻辑重新编写，非jquery的）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kouchao/react-layui.git"
+  },
+  "keywords": [
+    "layui",
+    "react-layui"
+  ],
+  "author": "kouchao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kouchao/react-layui/issues"
+  },
+  "homepage": "https://github.com/kouchao/react-layui#readme"
+}
